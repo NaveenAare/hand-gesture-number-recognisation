@@ -29,3 +29,29 @@ The Main Steps involved in the number detection are:-
  
  
  #out-put
+![first](https://user-images.githubusercontent.com/45810748/71434522-eac29b80-270a-11ea-9bbe-624176e0572e.png)
+.
+.
+.
+.
+.
+.
+#recognisation
+.
+.
+.
+.
+.
+.
+
+<img width="960" alt="Screenshot (32)" src="https://user-images.githubusercontent.com/45810748/71434753-dcc14a80-270b-11ea-9464-52be92bd77f8.png">
+
+
+
+
+
+
+
+
+<img width="960" alt="Screenshot (33)" src="https://user-images.githubusercontent.com/45810748/71434905-87396d80-270c-11ea-9632-eb31a7d73d00.png">
+
